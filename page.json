@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "id": "zb2qyzgg8d",
+      "name": {
+        "tr": "Programlar",
+        "en": "Programmes",
+        "ar": "البرامج"
+      },
+      "description": {
+        "tr": "Kurgusal program örnekleri; ses yayını bu demoda yoktur.",
+        "en": "Fictional sample programmes; there is no audio in this demo.",
+        "ar": "نماذج برامج افتراضية؛ ولا يوجد صوت في هذا العرض."
+      },
+      "path": "programlar",
+      "icon": "radio",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ewsdab",
+          "sb23w3",
+          "45s1g5"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "8llh0ktyiv",
+      "name": {
+        "tr": "Yayın Akışı",
+        "en": "Schedule",
+        "ar": "جدول البث"
+      },
+      "description": {
+        "tr": "Bir günlük örnek yayın akışı.",
+        "en": "A sample daily broadcast schedule.",
+        "ar": "جدول بث يومي نموذجي."
+      },
+      "path": "yayin-akisi",
+      "icon": "schedule",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "b19wxs"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "g04umqnq8w",
+      "name": {
+        "tr": "Reklam",
+        "en": "Advertising",
+        "ar": "الإعلان"
+      },
+      "description": {
+        "tr": "Paketi ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+        "en": "Choose a package and a convenient day; on this demo site your request is created only in your browser.",
+        "ar": "اختر الباقة واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+      },
+      "path": "reklam",
+      "icon": "campaign",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "cpqfuy"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "6qbozokrsh",
+      "name": {
+        "tr": "Künye",
+        "en": "Masthead",
+        "ar": "بيانات الإدارة"
+      },
+      "description": {
+        "tr": "Künye, RTÜK lisansı ve müzik lisansı bilgisi.",
+        "en": "Masthead, RTÜK licence and music licence information.",
+        "ar": "بيانات الإدارة وترخيص RTÜK وترخيص الموسيقى."
+      },
+      "path": "kunye",
+      "icon": "badge",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "59jnfb"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "hqm8t8erv2",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Yayın stüdyosu ve ekipman görüntüleri; kişi yoktur.",
+        "en": "Studio and equipment images; no people.",
+        "ar": "صور الاستوديو والمعدات؛ دون أشخاص."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "t11opj"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "7a0qv6",
+          "im1ll4"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Dalga FM, müzik ve yerel gündemi lisanslı ve şeffaf biçimde sunan kurgusal bir demo radyodur. Künye ve lisans bilgileri sitede açıkça yer alır; sitede gerçek bir ses yayını yoktur.",
+        "en": "Dalga FM is a fictional demo radio that presents music and local news in a licensed and transparent way. Masthead and licence details are clearly on the site; there is no real audio stream.",
+        "ar": "دالغا إف إم إذاعة تجريبية افتراضية تقدّم الموسيقى والأخبار المحلية بترخيص وشفافية. بيانات الإدارة والترخيص مذكورة بوضوح في الموقع، ولا يوجد بث صوتي حقيقي."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 6,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9ct01",
+          "k9mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

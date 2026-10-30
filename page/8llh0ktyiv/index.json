@@ -1,0 +1,39 @@
+{
+  "id": "8llh0ktyiv",
+  "name": {
+    "tr": "Yayın Akışı",
+    "en": "Schedule",
+    "ar": "جدول البث"
+  },
+  "description": {
+    "tr": "Bir günlük örnek yayın akışı.",
+    "en": "A sample daily broadcast schedule.",
+    "ar": "جدول بث يومي نموذجي."
+  },
+  "keyword": {
+    "tr": "yayın akışı",
+    "en": "schedule",
+    "ar": "جدول البث"
+  },
+  "path": "yayin-akisi",
+  "icon": "schedule",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "b19wxs"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yayın Akışı",
+    "en": "Schedule",
+    "ar": "جدول البث"
+  },
+  "date": "2026-10-30T22:17:44.247Z",
+  "update": "2026-10-30T22:17:44.249Z"
+}
