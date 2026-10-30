@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 5,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "7a0qv6",
+      "im1ll4"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Dalga FM, müzik ve yerel gündemi lisanslı ve şeffaf biçimde sunan kurgusal bir demo radyodur. Künye ve lisans bilgileri sitede açıkça yer alır; sitede gerçek bir ses yayını yoktur.",
+    "en": "Dalga FM is a fictional demo radio that presents music and local news in a licensed and transparent way. Masthead and licence details are clearly on the site; there is no real audio stream.",
+    "ar": "دالغا إف إم إذاعة تجريبية افتراضية تقدّم الموسيقى والأخبار المحلية بترخيص وشفافية. بيانات الإدارة والترخيص مذكورة بوضوح في الموقع، ولا يوجد بث صوتي حقيقي."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-10-30T22:17:44.275Z",
+  "date": "2026-10-30"
+}
