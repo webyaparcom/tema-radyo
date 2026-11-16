@@ -77,7 +77,8 @@
         "vurguBg": "var(--mx-site-primary-contrast, #ffffff)",
         "vurguText": "var(--mx-site-primary, #2563eb)",
         "logoH": "44px",
-        "bgcolor": "var(--mx-site-primary, #2563eb)"
+        "bgcolor": "var(--mx-site-primary, #2563eb)",
+        "logoimg": "logo-ust.png"
       },
       "version": "1.0.0",
       "icon": "gradient",
